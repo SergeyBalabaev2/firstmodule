@@ -8,5 +8,5 @@ func summ(a, b int) int {
 
 
 func main() {
-    fmt.Println(summ(1,1))
+    fmt.Println(summ(1,2))
 }
